@@ -1,0 +1,13 @@
+Openshift 4.3 on KVM setup
+
+1. Installation Pre-Requisites
+Grab your Red Hat OpenShift subscription from cloud.redhat.com
+DHCP Server 
+PXE/TFTP Server 
+DNS Server 
+HAProxy Server
+
+3x master node
+2x worker node
+
+2. 
